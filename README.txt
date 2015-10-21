@@ -8,6 +8,7 @@ press 2 for NO or "2 or more people"
 press w for "0 people"
 press e for "Yes - Submit"
 
+
 Additional:
 Holding down the 2 button will keep selecting "No" until the end, and even until the next HIT, so don't fall asleep with your finger on the "No" key.
 

@@ -5,6 +5,7 @@
 // @description  This script autofocuses the HIT and gives keyboard inputs for all functions with just four clustered keys - 1, 2, w and e.
 // @author       mkrobert
 // @include      *
+// @icon 	 http://mturkgrind.com/data/avatars/l/8/8874.jpg?1445404860
 // @grant        none
 // ==/UserScript==
 // https://github.com/mkrobert

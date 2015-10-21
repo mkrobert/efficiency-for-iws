@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  This script autofocuses the HIT and gives keyboard inputs for all functions with just four clustered keys - 1, 2, w and e.
 // @author       mkrobert
-// @include      * //Make sure to disable this script in Greasemonkey when not actively doing the HITs.
+// @include      *
 // @grant        none
 // ==/UserScript==
 // https://github.com/mkrobert

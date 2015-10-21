@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         mkrobert - Efficiency for IWS - Answer questions about a photo
 // @namespace    mkrobert
-// @version      1.0
+// @version      1.02
 // @description  This script autofocuses the HIT and gives keyboard inputs for all functions with just four clustered keys - 1, 2, w and e.
 // @author       mkrobert
 // @include      *
